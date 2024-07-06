@@ -10,8 +10,7 @@ public class PropertyDto {
 
     private String title;
     private String description;
-    private String ownerName;
-    private String ownerEmail;
+
     private String price;
     private String address;
 //To access variable outside we are creating getter and setter because it is declared with private
