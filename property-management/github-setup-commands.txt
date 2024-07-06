@@ -1,0 +1,7 @@
+1.git init
+2.git add .
+3.git commit -m "intial"
+4.git remote add origin https://github.com/dream023se/property-management.git
+4.git remote set-url origin https://USERNAME: <MYTOKEN>@github.com/USERNAME/Repo.git
+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 git access token
+6. git push --set-upstream origin master
